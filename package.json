@@ -1,0 +1,15 @@
+{
+  "name": "starburst",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "A modified Sunburst theme, with better support for ES6.",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/evocateur/atom-starburst",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
